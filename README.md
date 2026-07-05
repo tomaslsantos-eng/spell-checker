@@ -93,4 +93,4 @@ O programa foi testado com os dicionários `words` (inglês) e `portuguese`, nor
 
 ## Autor
 
-Projeto desenvolvido para a disciplina de Programação (LEEC, IST) — trabalho de grupo, 2024/2025.
+Projeto desenvolvido para a disciplina de Programação (LEEC, IST) — trabalho de grupo, Tomás Santos, Tomás Carita, 2024/2025.
